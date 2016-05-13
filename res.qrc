@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>dong.wav</file>
+        <file>ka.wav</file>
+        <file>Taiko_opening.mp3</file>
+        <file>game_song.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>taiko_bg.png</file>
+        <file>dong.png</file>
+        <file>ka.png</file>
+        <file>startmenu.png</file>
+    </qresource>
+</RCC>
